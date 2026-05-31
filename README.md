@@ -12,7 +12,7 @@
 
 I'm a third-year B.Tech student in **Artificial Intelligence and Data Science** at **IIT Jodhpur**.
 
-My work sits at the intersection of **backend engineering**, **machine learning**, and **distributed systems**. I enjoy building systems that are not just intelligent, but also scalable, reliable, and practical under real-world constraints.
+My work sits at the intersection of **backend engineering**, **machine learning**, and **systems design**. I enjoy building systems that are not just intelligent, but also scalable, reliable, and practical under real-world constraints.
 
 I’ve worked on:
 - diagnostic **Vision-Language Models**
@@ -118,5 +118,5 @@ I like solving problems that need both strong systems thinking and practical ML.
 ---
 
 <p align="center">
-  <i>Building intelligent systems, from distributed infrastructure to machine learning.</i>
+  <i>Interested in backend engineering, AI/ML, and turning ideas into scalable products.</i>
 </p>
