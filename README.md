@@ -3,7 +3,7 @@
 <h3 align="center">AI/ML • Backend Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+intelligent+systems;Backend+%2B+ML+%2B+Distributed+Systems;Turning+ideas+into+reliable+products;Always+learning%2C+always+shipping" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+intelligent+systems;Backend+Engineering+%2B+Machine+Learning;Turning+ideas+into+reliable+products;Always+learning%2C+always+shipping" />
 </p>
 
 ---
