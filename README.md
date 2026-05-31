@@ -58,12 +58,12 @@ I like solving problems that need both strong systems thinking and practical ML.
 ---
 
 ## 🏆 Highlights
-
+  
 - **1st Place, Inter IIT Tech Meet 14.0**
-- Built **BEACON**, an AI-driven mentorship platform with RAG, Neo4j, Redis, and real-time communication
-- Built **libr**, a decentralized public forum using **libp2p** and P2P networking
+- Built **BEACON**, an AI-driven mentorship platform
+- Worked on **libr**, a decentralized public forum using **libp2p** and P2P networking 
 - Worked on a **diagnostic VLM** for multimodal medical understanding
-- Enjoy solving deep technical problems across systems and ML
+- Building at the intersection of systems and machine learning
 
 ---
 
@@ -82,24 +82,37 @@ I like solving problems that need both strong systems thinking and practical ML.
 ## 🌐 Connect With Me
 
 <p align="center">
+ <p align="center">
+  <a href="https://github.com/JaineelVora08" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jaineel-vora/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:jaineelvora08@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
   </a>
-  <a href="https://www.instagram.com/jaineelvora/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/JaineelVora08/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://cdn.simpleicons.org/leetcode" width="48" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://jaineelvoraportfolio.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+    <img src="https://cdn.simpleicons.org/netlify" width="48" />
   </a>
-  <a href="https://github.com/JaineelVora08/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+</p>
+
+<p align="center">
+  <sub>
+    GitHub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Gmail &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    LeetCode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Portfolio
+  </sub>
+</p>
 </p>
 
 ---
