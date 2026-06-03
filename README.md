@@ -3,7 +3,7 @@
 <h3 align="center">AI/ML • Backend Systems</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+intelligent+systems;Backend+Engineering+%2B+Machine+Learning;Turning+ideas+into+reliable+products;Always+learning%2C+always+shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+intelligent+systems;Backend+Engineering+%2B+Machine+Learning;Turning+ideas+into+reliable+products;Always+learning%2C+always+shipping" />
 </p>
 
 ---
@@ -21,6 +21,16 @@ I’ve worked on:
 - fine-tuning and alignment workflows for LLMs
 
 I like solving problems that need both strong systems thinking and practical ML.
+
+---
+
+## 📌 Projects
+
+- **BEACON** — AI-powered mentorship platform using graph intelligence, RAG pipelines, and real-time communication.
+- **libr** — Decentralized public forum built on libp2p with Kademlia DHT, NAT traversal, and peer-to-peer networking.
+- **NL to MongoDB** — Fine-tuned and aligned LLM that converts natural language into executable MongoDB queries.
+- **GraphAnalyse** — High-performance social graph analytics engine featuring PageRank, recommendation systems, and trend discovery.
+- **Client-Centric Wi-Fi RRM System** — Safe reinforcement learning based wireless resource optimization platform developed for Inter IIT Tech Meet 14.0.
 
 ---
 
@@ -58,10 +68,10 @@ I like solving problems that need both strong systems thinking and practical ML.
 ---
 
 ## 🏆 Highlights
-  
+
 - **1st Place, Inter IIT Tech Meet 14.0**
 - Built **BEACON**, an AI-driven mentorship platform
-- Worked on **libr**, a decentralized public forum using **libp2p** and P2P networking 
+- Worked on **libr**, a decentralized public forum using **libp2p** and P2P networking
 - Worked on a **diagnostic VLM** for multimodal medical understanding
 - Building at the intersection of systems and machine learning
 
@@ -82,7 +92,6 @@ I like solving problems that need both strong systems thinking and practical ML.
 ## 🌐 Connect With Me
 
 <p align="center">
- <p align="center">
   <a href="https://github.com/JaineelVora08" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="48" />
   </a>
@@ -112,7 +121,6 @@ I like solving problems that need both strong systems thinking and practical ML.
     LeetCode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Portfolio
   </sub>
-</p>
 </p>
 
 ---
