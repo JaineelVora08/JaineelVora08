@@ -30,7 +30,6 @@ I like solving problems that need both strong systems thinking and practical ML.
 - **libr** — Decentralized public forum built on libp2p with Kademlia DHT, NAT traversal, and peer-to-peer networking.
 - **NL to MongoDB** — Fine-tuned and aligned LLM that converts natural language into executable MongoDB queries.
 - **GraphAnalyse** — High-performance social graph analytics engine featuring PageRank, recommendation systems, and trend discovery.
-- **Client-Centric Wi-Fi RRM System** — Safe reinforcement learning based wireless resource optimization platform developed for Inter IIT Tech Meet 14.0.
 
 ---
 
